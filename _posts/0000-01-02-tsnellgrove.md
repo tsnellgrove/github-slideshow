@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Crawl, Walk, Run"
 Use the left arrow to go back!
